@@ -7,6 +7,7 @@ A Python project demonstrating LangGraph with simple nodes and edges, featuring 
 - **LangGraph Implementation**: Simple graph with custom nodes and edges
 - **MCP Server**: Model Context Protocol server for tool integration
 - **Agent**: Intelligent agent that uses the graph and MCP server
+- **Agentic Agent**: Smart agent that intelligently selects tools based on user input
 
 ## Project Structure
 
